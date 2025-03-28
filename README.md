@@ -50,7 +50,7 @@ The strategy takes **long positions** when Z-score is low (e.g. < -2) and **shor
    - Entry/exit Z-score thresholds
    - Stop-loss / Take-profit levels  
 3. Run the backtest  
-4. View performance metrics, trade signals, and comparisons  
+4. View performance metrics, trade signals, comparisons....
 5. Analyze correlations and combined portfolio returns  
 
 ---
